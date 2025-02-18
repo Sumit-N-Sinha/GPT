@@ -23,6 +23,7 @@
     "sequelize": "^6.37.5",
     "session": "^0.1.0",
     "uuid": "^11.0.5",
-    "zod": "^3.24.2"
+    "zod": "^3.24.2",
+    "@supabase/supabase-js": "^2.0.0"
   }
 }
